@@ -1,6 +1,6 @@
 Josephus problem Solution
 
-Article: https://medium.com/@lamadiedara/solving-josepheus-359c13ecf33f
+Article: https://medium.com/@diwaslama/solving-josepheus-359c13ecf33f
 
 Youtube Reference for Josephus: https://youtu.be/uCsD3ZGzMgE?si=wnLeeidSTuvV92v5
 
